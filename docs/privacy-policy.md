@@ -6,7 +6,7 @@ title: Corbeat Privacy Policy
 # Corbeat Privacy Policy
 
 **Effective date:** October 14, 2026
-**App:** Corbeat (Android, package `com.corbeat`)
+**App:** Corbeat (Android, package `app.corbeat`)
 **Developer:** Mohit Pavecha
 **Contact:** jain98mohit@gmail.com
 
