@@ -5,7 +5,7 @@ title: Corbeat Privacy Policy
 
 # Corbeat Privacy Policy
 
-**Effective date:** October 14, 2026
+**Effective date:** October 17, 2026
 **App:** Corbeat (Android, package `app.corbeat`)
 **Developer:** Mohit Pavecha
 **Contact:** jain98mohit@gmail.com
@@ -29,9 +29,16 @@ When you connect a data source, Corbeat reads, with your permission:
 | Steps | Daily steps, Physical Age |
 | Exercise sessions (workouts) | Activities, Strain, training load |
 | Weight | Weight history |
-| Respiratory rate and skin temperature | Detecting signs of illness for Recovery |
+| Respiratory rate, skin temperature and blood oxygen (SpO₂) | Detecting signs of illness for Recovery, and the Health tab |
+| Body fat, lean mass, bone mass and blood pressure (only if you allow them) | The Health tab: your latest value, history and range |
+| Blood glucose and body temperature (only if you allow them) | The Health tab history |
+| Active and total calories, resting energy, distance and floors climbed (only if you allow them) | The Health data list in Profile |
+| Water and calories eaten (only if you allow them) | The Health data list in Profile |
+| VO₂ max | Physical Age and the Health tab |
 | Workout routes and exercise location (only if you grant the separate location permission) | The route map and pace, elevation and split charts |
 | Health history older than 30 days and background access (only if you grant them) | Building your personal baselines and keeping scores up to date |
+
+The extra items marked "only if you allow them" are optional: Health Connect asks for them on a separate screen, Corbeat works without them, and anything you do not allow is never read. Corbeat keeps up to a year of history on your phone for these readings, and a month of per-minute heart rate.
 
 This data comes from two places, both of which ask for your permission first:
 
@@ -41,8 +48,8 @@ This data comes from two places, both of which ask for your permission first:
 ### Information you give the app
 
 - Your name (used for the greeting), date of birth, and optionally your sex, used for the Physical Age estimate.
-- Your preferences: units, theme, sleep goal, a maximum heart rate you may set yourself, reminder time, and notification and backup choices.
-- Journal entries you log for a night (for example alcohol, a late meal or high stress) and manual log entries such as a weight or a workout.
+- Your preferences: units, theme, sleep goal, steps goal, usual wake-up time, reminder time, and notification and backup choices.
+- Journal entries you log for a night (for example alcohol, a late meal or high stress), including when you answer the daily "How was last night?" prompt, and manual log entries such as a weight or a workout.
 
 ### Information the app creates
 
@@ -81,7 +88,7 @@ We do not sell your data, share it with advertisers or data brokers, or use it f
 
 ## 5. Notifications and widgets
 
-- **Notifications** (a daily Recovery reminder and an optional bedtime nudge) are created on your phone. They need the notification permission and can be turned off in the app or in Android settings.
+- **Notifications** (a daily Recovery reminder, a weekly Physical Age update and an optional bedtime nudge) are created on your phone. They need the notification permission and can be turned off in the app or in Android settings.
 - **Home-screen widgets** show today's Recovery, Strain and Sleep scores. They read from your phone and never connect to the internet. Anyone who can see your home screen can see them, so remove the widgets if you prefer.
 
 ## 6. Keeping your data safe
