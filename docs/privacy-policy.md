@@ -5,14 +5,14 @@ title: Corbeat Privacy Policy
 
 # Corbeat Privacy Policy
 
-**Effective date:** October 17, 2026
+**Effective date:** October 23, 2026
 **App:** Corbeat (Android, package `app.corbeat`)
 **Developer:** Mohit Pavecha
 **Contact:** jain98mohit@gmail.com
 
 Corbeat is a personal recovery, strain and sleep app. It reads health and fitness data that you choose to share from your phone and your wearable, and turns it into scores and guidance. This policy explains what data the app uses, where it goes, and the choices you have.
 
-**The short version:** Corbeat has no account and no servers. Your health data is processed and stored on your phone. We do not receive it, sell it, share it for advertising, or use it to track you. The app contacts only Google (to read the health data you allow) and OpenStreetMap (to draw workout maps).
+**The short version:** Corbeat has no account and no servers. Your health data is processed and stored on your phone. We do not receive it, sell it, share it for advertising, or use it to track you. The app contacts only Google (to read the health data you allow) and OpenFreeMap (to draw workout maps).
 
 ## 1. What Corbeat uses
 
@@ -75,7 +75,7 @@ Corbeat does not send this data to the developer or to any server we operate, be
 Corbeat makes network requests only in these cases, always over HTTPS:
 
 - **Google.** To sign you in and read the data you approved from the Google Health API. Google handles that data under its own privacy policy: <https://policies.google.com/privacy>. Health Connect itself works on your phone.
-- **OpenStreetMap.** When you open the route map of a workout, the app downloads the map squares (tiles) that cover the route from `tile.openstreetmap.org`. This tells the tile server which map areas were requested, so roughly where the workout happened, along with your IP address. No account, name or workout data is sent. Map data is from OpenStreetMap contributors (<https://www.openstreetmap.org/copyright>), and the tile service's privacy policy is at <https://wiki.osmfoundation.org/wiki/Privacy_Policy>.
+- **OpenFreeMap.** When you open the route map of a workout, the app downloads the map data (tiles) that cover the route, and the fonts for its labels, from `tiles.openfreemap.org`. This tells the tile server which map areas were requested, so roughly where the workout happened, and your IP address reaches it as with any web request. No account, name or workout data is sent. OpenFreeMap says it does not store IP addresses in its access logs; its privacy policy is at <https://openfreemap.org/privacy/>. Map data is © OpenMapTiles and OpenStreetMap contributors (<https://www.openstreetmap.org/copyright>).
 
 We do not sell your data, share it with advertisers or data brokers, or use it for advertising, credit decisions or insurance.
 
@@ -99,7 +99,7 @@ Data stays in the app's private storage, sign-in tokens are encrypted with the A
 
 Your data stays on your phone until you delete it. You can remove it at any time:
 
-- **Delete all data in the app.** Profile has a Delete all data option. It erases your scores, baselines, journal and profile, the cache of synced readings, your Google sign-in, the saved map tiles and the app's settings from your phone, cancels its scheduled reminders, and returns the app to setup.
+- **Delete all data in the app.** Profile has a Delete all data option. It erases your scores, baselines, journal and profile, the cache of synced readings, your Google sign-in, the saved route maps and the app's settings from your phone, cancels its scheduled reminders, and returns the app to setup.
 - **Stop sharing from Health Connect or Google.** Corbeat's permission in Health Connect is controlled by Android, so remove it in Android's Health Connect settings. You can also revoke Corbeat's access to your Google data at <https://myaccount.google.com/permissions>.
 - **Disconnect an account without deleting.** In Profile you can disconnect Google or Health Connect on its own to stop Corbeat reading from it, and keep your history.
 - **Uninstall the app.** This removes everything Corbeat stored on the phone.
