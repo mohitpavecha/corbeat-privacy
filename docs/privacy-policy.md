@@ -8,7 +8,7 @@ title: Corbeat Privacy Policy
 **Effective date:** October 23, 2026
 **App:** Corbeat (Android, package `app.corbeat`)
 **Developer:** Mohit Pavecha
-**Contact:** jain98mohit@gmail.com
+**Contact:** app.corbeat@gmail.com
 
 Corbeat is a personal recovery, strain and sleep app. It reads health and fitness data that you choose to share from your phone and your wearable, and turns it into scores and guidance. This policy explains what data the app uses, where it goes, and the choices you have.
 
@@ -125,4 +125,4 @@ If this policy changes, we will update the date at the top and describe the chan
 
 ## 12. Contact
 
-Questions about this policy or your data: **jain98mohit@gmail.com**
+Questions about this policy or your data: **app.corbeat@gmail.com**
